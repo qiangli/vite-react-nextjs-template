@@ -9,3 +9,5 @@ pnpm lint:fix
 pnpm build
 pnpm dev
 ```
+
+![Vite + React + Next.js + TypeScript](docs/vite-react-nextjs-ts.png)
